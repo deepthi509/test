@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "email": "pagatamudi@forbesadvisor.com",
+      "password": "password",
+      "id": 1
+    },
+    {
+      "email": "pagatamudi@forbesadvisor.com",
+      "password": "password",
+      "id": 2
+    }
+  ]
+}
